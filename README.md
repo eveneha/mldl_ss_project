@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Model initialization
 
 In the following link you can find the pretrained weights for DeepLab.
@@ -62,3 +63,9 @@ end
 $\texttt{stdLatency} \gets \texttt{std(latency)*1000}$\
 $\texttt{meanFPS} \gets \texttt{mean(FPS)}$\
 $\texttt{stdFPS} \gets \texttt{std(FPS)}$
+=======
+# mldl_ss_project
+
+
+hello !! 
+>>>>>>> 7f2291b17f7a88f899dd6fc281404b231b003a50
